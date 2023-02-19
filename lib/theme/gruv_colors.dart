@@ -16,6 +16,8 @@ List<String> classes = [
 class GruvColors {
   static const black = Color(0xFF282828);
   static const white = Color(0xFFFFFBE9);
+  static const brown = Color(0xFF504945);
+  static const offWhite = Color(0xFFEBDBB2);
 
   static const good = Color(0xFF8EC07C);
   static const moderate = Color(0xFFFABD2F);
